@@ -2,7 +2,7 @@ function calculate() {
   var password = prompt("Enter the password:");
 
   // Replace "password123" with your desired password
-  if (password === "password123") {
+  if (password === "laborator3245" || password === "pisica2023" || password === "miercuri10" || password === "bicicleta01" || password === "cutie2017" ) {
     var d = parseFloat(document.getElementById('zi').value);
     var m = parseFloat(document.getElementById('luna').value);
 
